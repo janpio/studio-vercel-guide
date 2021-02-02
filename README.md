@@ -1,4 +1,4 @@
-# Studio x Vercel
+# Prisma Studio 💖 Vercel
 
 This guide shows you how to deploy Studio alongside your app on Vercel.
 
